@@ -1,0 +1,29 @@
+/Users/kammatiaditya/Downloads/code/helloworld/bin/Debug/net9.0/helloworld
+/Users/kammatiaditya/Downloads/code/helloworld/bin/Debug/net9.0/helloworld.deps.json
+/Users/kammatiaditya/Downloads/code/helloworld/bin/Debug/net9.0/helloworld.runtimeconfig.json
+/Users/kammatiaditya/Downloads/code/helloworld/bin/Debug/net9.0/helloworld.dll
+/Users/kammatiaditya/Downloads/code/helloworld/bin/Debug/net9.0/helloworld.pdb
+/Users/kammatiaditya/Downloads/code/helloworld/obj/Debug/net9.0/helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kammatiaditya/Downloads/code/helloworld/obj/Debug/net9.0/helloworld.AssemblyInfoInputs.cache
+/Users/kammatiaditya/Downloads/code/helloworld/obj/Debug/net9.0/helloworld.AssemblyInfo.cs
+/Users/kammatiaditya/Downloads/code/helloworld/obj/Debug/net9.0/helloworld.csproj.CoreCompileInputs.cache
+/Users/kammatiaditya/Downloads/code/helloworld/obj/Debug/net9.0/helloworld.sourcelink.json
+/Users/kammatiaditya/Downloads/code/helloworld/obj/Debug/net9.0/helloworld.dll
+/Users/kammatiaditya/Downloads/code/helloworld/obj/Debug/net9.0/refint/helloworld.dll
+/Users/kammatiaditya/Downloads/code/helloworld/obj/Debug/net9.0/helloworld.pdb
+/Users/kammatiaditya/Downloads/code/helloworld/obj/Debug/net9.0/helloworld.genruntimeconfig.cache
+/Users/kammatiaditya/Downloads/code/helloworld/obj/Debug/net9.0/ref/helloworld.dll
+C:\Users\adithya.ext_disprz\Downloads\code copy 2\helloworld\obj\Debug\net9.0\helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adithya.ext_disprz\Downloads\code copy 2\helloworld\obj\Debug\net9.0\helloworld.AssemblyInfoInputs.cache
+C:\Users\adithya.ext_disprz\Downloads\code copy 2\helloworld\obj\Debug\net9.0\helloworld.AssemblyInfo.cs
+C:\Users\adithya.ext_disprz\Downloads\code copy 2\helloworld\obj\Debug\net9.0\helloworld.csproj.CoreCompileInputs.cache
+C:\Users\adithya.ext_disprz\Downloads\code copy 2\helloworld\obj\Debug\net9.0\helloworld.dll
+C:\Users\adithya.ext_disprz\Downloads\code copy 2\helloworld\obj\Debug\net9.0\refint\helloworld.dll
+C:\Users\adithya.ext_disprz\Downloads\code copy 2\helloworld\obj\Debug\net9.0\helloworld.pdb
+C:\Users\adithya.ext_disprz\Downloads\code copy 2\helloworld\bin\Debug\net9.0\helloworld.exe
+C:\Users\adithya.ext_disprz\Downloads\code copy 2\helloworld\bin\Debug\net9.0\helloworld.deps.json
+C:\Users\adithya.ext_disprz\Downloads\code copy 2\helloworld\bin\Debug\net9.0\helloworld.runtimeconfig.json
+C:\Users\adithya.ext_disprz\Downloads\code copy 2\helloworld\bin\Debug\net9.0\helloworld.dll
+C:\Users\adithya.ext_disprz\Downloads\code copy 2\helloworld\bin\Debug\net9.0\helloworld.pdb
+C:\Users\adithya.ext_disprz\Downloads\code copy 2\helloworld\obj\Debug\net9.0\helloworld.genruntimeconfig.cache
+C:\Users\adithya.ext_disprz\Downloads\code copy 2\helloworld\obj\Debug\net9.0\ref\helloworld.dll
